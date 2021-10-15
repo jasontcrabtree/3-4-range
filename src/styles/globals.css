@@ -24,3 +24,8 @@ button {
   border-radius: 4px;
   font-size: 1rem;
 }
+
+.text--jumbo {
+  font-size: 72px;
+  font-family: monospace;
+}
